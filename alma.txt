@@ -3,3 +3,5 @@ második commit
 negyedik commit
 hatodik commit
 hetedik commit
+harmadik commit
+ötödik commit
